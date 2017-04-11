@@ -1,6 +1,6 @@
-# odd-space
+# OddSpace
 
-####An Website that highlights oddities, conundrums and bizarre phenomenon of the cosmos
+#### A Website that highlights oddities, conundrums and bizarre phenomenon of the cosmos
 
 ### Tech Stack:
 - React JS
